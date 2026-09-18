@@ -1,0 +1,14 @@
+# Backend-specific ignores are in backend/.gitignore
+
+# Global ignores
+.env*
+!.env.example
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Logs
+logs/
+*.log

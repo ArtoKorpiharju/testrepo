@@ -1,0 +1,8 @@
+{
+  "name": "osaamisenhallinta",
+  "private": true,
+  "description": "Root-level scripts for the Osaamisenhallinta project (see frontend/ and backend/ for the apps themselves).",
+  "scripts": {
+    "e2e-tests": "node e2e-tests/smoke-test.mjs"
+  }
+}
